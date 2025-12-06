@@ -56,7 +56,7 @@ O chatbot desenvolvido foi capaz de:
 
 - Alternar entre respostas personalizadas e padrão conforme o reconhecimento da entrada.
 
-- Reiniciar automaticamente o diálogo com o usuário após encerramento.
+- Reiniciar automaticamente os diálogos com o usuário após encerramento.
 
 
 ✅ 5. Conclusão
